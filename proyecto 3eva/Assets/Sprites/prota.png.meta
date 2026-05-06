@@ -238,7 +238,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -252,7 +252,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -276,7 +276,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -330,10 +330,10 @@ TextureImporter:
       name: prota_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 12
-        width: 29
-        height: 41
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: prota_1
       rect:
         serializedVersion: 2
-        x: 143
-        y: 12
-        width: 29
-        height: 41
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +374,10 @@ TextureImporter:
       name: prota_2
       rect:
         serializedVersion: 2
-        x: 207
-        y: 12
-        width: 29
-        height: 41
+        x: 128
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +396,10 @@ TextureImporter:
       name: prota_3
       rect:
         serializedVersion: 2
-        x: 267
-        y: 12
-        width: 33
-        height: 41
+        x: 192
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +418,10 @@ TextureImporter:
       name: prota_4
       rect:
         serializedVersion: 2
-        x: 335
-        y: 12
-        width: 29
-        height: 41
+        x: 256
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +440,10 @@ TextureImporter:
       name: prota_5
       rect:
         serializedVersion: 2
-        x: 399
-        y: 12
-        width: 29
-        height: 41
+        x: 320
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,10 +462,10 @@ TextureImporter:
       name: prota_6
       rect:
         serializedVersion: 2
-        x: 527
-        y: 12
-        width: 29
-        height: 41
+        x: 384
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -484,10 +484,10 @@ TextureImporter:
       name: prota_7
       rect:
         serializedVersion: 2
-        x: 591
-        y: 12
-        width: 29
-        height: 41
+        x: 448
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -506,10 +506,10 @@ TextureImporter:
       name: prota_8
       rect:
         serializedVersion: 2
-        x: 655
-        y: 12
-        width: 34
-        height: 41
+        x: 512
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -528,10 +528,10 @@ TextureImporter:
       name: prota_9
       rect:
         serializedVersion: 2
-        x: 719
-        y: 12
-        width: 29
-        height: 41
+        x: 576
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -550,10 +550,10 @@ TextureImporter:
       name: prota_10
       rect:
         serializedVersion: 2
-        x: 734
-        y: 52
-        width: 7
-        height: 7
+        x: 640
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -572,10 +572,10 @@ TextureImporter:
       name: prota_11
       rect:
         serializedVersion: 2
-        x: 783
-        y: 12
-        width: 29
-        height: 41
+        x: 704
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -594,10 +594,10 @@ TextureImporter:
       name: prota_12
       rect:
         serializedVersion: 2
-        x: 847
-        y: 12
-        width: 29
-        height: 41
+        x: 768
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -616,10 +616,10 @@ TextureImporter:
       name: prota_13
       rect:
         serializedVersion: 2
-        x: 911
-        y: 12
-        width: 29
-        height: 41
+        x: 832
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -638,10 +638,10 @@ TextureImporter:
       name: prota_14
       rect:
         serializedVersion: 2
-        x: 975
-        y: 12
-        width: 29
-        height: 41
+        x: 896
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -660,10 +660,10 @@ TextureImporter:
       name: prota_15
       rect:
         serializedVersion: 2
-        x: 1039
-        y: 12
-        width: 29
-        height: 41
+        x: 960
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -682,10 +682,10 @@ TextureImporter:
       name: prota_16
       rect:
         serializedVersion: 2
-        x: 1103
-        y: 12
-        width: 29
-        height: 41
+        x: 1024
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -704,10 +704,10 @@ TextureImporter:
       name: prota_17
       rect:
         serializedVersion: 2
-        x: 1167
-        y: 12
-        width: 29
-        height: 41
+        x: 1088
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -726,10 +726,10 @@ TextureImporter:
       name: prota_18
       rect:
         serializedVersion: 2
-        x: 1231
-        y: 12
-        width: 29
-        height: 41
+        x: 1152
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -748,10 +748,10 @@ TextureImporter:
       name: prota_19
       rect:
         serializedVersion: 2
-        x: 1295
-        y: 9
-        width: 29
-        height: 44
+        x: 1216
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -770,10 +770,10 @@ TextureImporter:
       name: prota_20
       rect:
         serializedVersion: 2
-        x: 1423
-        y: 9
-        width: 29
-        height: 44
+        x: 1280
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -792,10 +792,10 @@ TextureImporter:
       name: prota_21
       rect:
         serializedVersion: 2
-        x: 1487
-        y: 9
-        width: 29
-        height: 44
+        x: 1344
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -814,10 +814,10 @@ TextureImporter:
       name: prota_22
       rect:
         serializedVersion: 2
-        x: 1551
-        y: 9
-        width: 29
-        height: 44
+        x: 1408
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -836,10 +836,10 @@ TextureImporter:
       name: prota_23
       rect:
         serializedVersion: 2
-        x: 1615
-        y: 9
-        width: 29
-        height: 44
+        x: 1472
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -858,10 +858,10 @@ TextureImporter:
       name: prota_24
       rect:
         serializedVersion: 2
-        x: 4
-        y: 29
-        width: 7
-        height: 7
+        x: 1536
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -880,10 +880,10 @@ TextureImporter:
       name: prota_25
       rect:
         serializedVersion: 2
-        x: 47
-        y: 29
-        width: 7
-        height: 7
+        x: 1600
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -902,10 +902,10 @@ TextureImporter:
       name: prota_26
       rect:
         serializedVersion: 2
-        x: 68
-        y: 26
-        width: 7
-        height: 7
+        x: 1664
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -924,10 +924,10 @@ TextureImporter:
       name: prota_27
       rect:
         serializedVersion: 2
-        x: 79
-        y: 12
-        width: 29
-        height: 39
+        x: 1728
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -946,10 +946,10 @@ TextureImporter:
       name: prota_28
       rect:
         serializedVersion: 2
-        x: 111
-        y: 26
-        width: 7
-        height: 7
+        x: 1792
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -968,10 +968,10 @@ TextureImporter:
       name: prota_29
       rect:
         serializedVersion: 2
-        x: 132
-        y: 29
-        width: 7
-        height: 7
+        x: 1856
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -986,847 +986,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: prota_30
-      rect:
-        serializedVersion: 2
-        x: 175
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ccc8388bda490b7f0800000000000000
-      internalID: -598815276594393908
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_31
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5d4792f1e4794bc0800000000000000
-      internalID: -3798376296923837089
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_32
-      rect:
-        serializedVersion: 2
-        x: 239
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6d5ef27b65ac0d6e0800000000000000
-      internalID: -1814728176040942122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_33
-      rect:
-        serializedVersion: 2
-        x: 303
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1723c0cca21fb6c30800000000000000
-      internalID: 4353838630897988209
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_34
-      rect:
-        serializedVersion: 2
-        x: 367
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b1c03cf2b7f03b00800000000000000
-      internalID: 806416681406611897
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_35
-      rect:
-        serializedVersion: 2
-        x: 388
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad2e8087dcc61ff90800000000000000
-      internalID: -6921631522553797926
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_36
-      rect:
-        serializedVersion: 2
-        x: 431
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b3dd514f0af22610800000000000000
-      internalID: 1595112161470698423
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_37
-      rect:
-        serializedVersion: 2
-        x: 452
-        y: 27
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b8a84db7e59b8620800000000000000
-      internalID: 2777478417749682357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_38
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 12
-        width: 29
-        height: 39
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 43957fd38d6a98e30800000000000000
-      internalID: 4506316349843659060
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_39
-      rect:
-        serializedVersion: 2
-        x: 495
-        y: 27
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 599a2f06a93dd1240800000000000000
-      internalID: 4764196640832792981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_40
-      rect:
-        serializedVersion: 2
-        x: 516
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93a2e2e4e31a4a4a0800000000000000
-      internalID: -6582959466337129927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_41
-      rect:
-        serializedVersion: 2
-        x: 559
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a7f82d3722815e00800000000000000
-      internalID: 1031748894685984680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_42
-      rect:
-        serializedVersion: 2
-        x: 580
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 015bd5df946fe1830800000000000000
-      internalID: 4043940313069106448
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_43
-      rect:
-        serializedVersion: 2
-        x: 623
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 599a35c927cf8a760800000000000000
-      internalID: 7469497551173167509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_44
-      rect:
-        serializedVersion: 2
-        x: 644
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfcf060326c4bc940800000000000000
-      internalID: 5317427769643171069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_45
-      rect:
-        serializedVersion: 2
-        x: 708
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 91f9bd986d32917a0800000000000000
-      internalID: -6406049590614974695
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_46
-      rect:
-        serializedVersion: 2
-        x: 772
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f231143336e01ce0800000000000000
-      internalID: -1436395173539925258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_47
-      rect:
-        serializedVersion: 2
-        x: 815
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0aeae437b1a5f4430800000000000000
-      internalID: 3769330487077547680
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_48
-      rect:
-        serializedVersion: 2
-        x: 836
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2602e6b4219f67650800000000000000
-      internalID: 6230440991483895906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_49
-      rect:
-        serializedVersion: 2
-        x: 879
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63914a62e07eff750800000000000000
-      internalID: 6341040848324794678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_50
-      rect:
-        serializedVersion: 2
-        x: 900
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2bddee7a50afbca80800000000000000
-      internalID: -8445381774004003406
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_51
-      rect:
-        serializedVersion: 2
-        x: 943
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1baac0fff6e72c620800000000000000
-      internalID: 2792933738408618673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_52
-      rect:
-        serializedVersion: 2
-        x: 964
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b1f774e83c479110800000000000000
-      internalID: 1267565627363029431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_53
-      rect:
-        serializedVersion: 2
-        x: 1007
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fca4a1d90ca74b920800000000000000
-      internalID: 3005161819051018959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_54
-      rect:
-        serializedVersion: 2
-        x: 1028
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc127b8e2b7e115d0800000000000000
-      internalID: -3093436713432309299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_55
-      rect:
-        serializedVersion: 2
-        x: 1071
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 264ad34b2055e3030800000000000000
-      internalID: 3476309432478835810
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_56
-      rect:
-        serializedVersion: 2
-        x: 1092
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f3d0c2689688e20a0800000000000000
-      internalID: -6904431191908414145
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_57
-      rect:
-        serializedVersion: 2
-        x: 1135
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bdc167d8ced0045d0800000000000000
-      internalID: -3080446835484648229
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_58
-      rect:
-        serializedVersion: 2
-        x: 1156
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dca7a628176798200800000000000000
-      internalID: 182807489776614093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_59
-      rect:
-        serializedVersion: 2
-        x: 1199
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 33ef7949e390d4d80800000000000000
-      internalID: -8264939576769380813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_60
-      rect:
-        serializedVersion: 2
-        x: 1220
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 83a92301570c406b0800000000000000
-      internalID: -5330924449884366280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_61
-      rect:
-        serializedVersion: 2
-        x: 1263
-        y: 29
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fcf9ff00b51cb9140800000000000000
-      internalID: 4727584830458404815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_62
-      rect:
-        serializedVersion: 2
-        x: 1359
-        y: 9
-        width: 29
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b7c35abce5fdf0d0800000000000000
-      internalID: -3387280947625605198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_63
-      rect:
-        serializedVersion: 2
-        x: 1644
-        y: 28
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d1d92a39b4a30650800000000000000
-      internalID: 6197978627643658713
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_64
-      rect:
-        serializedVersion: 2
-        x: 1679
-        y: 9
-        width: 29
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea1fb02f6a1b7d970800000000000000
-      internalID: 8779681329165627822
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_65
-      rect:
-        serializedVersion: 2
-        x: 1743
-        y: 10
-        width: 29
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76b25de2789f547e0800000000000000
-      internalID: -1781743718553539737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_66
-      rect:
-        serializedVersion: 2
-        x: 1807
-        y: 10
-        width: 29
-        height: 41
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10b06e91bad4f32b0800000000000000
-      internalID: -5602674014156354815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: prota_67
-      rect:
-        serializedVersion: 2
-        x: 1871
-        y: 9
-        width: 29
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6f4b256f4910d7f0800000000000000
-      internalID: -589943722395086997
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 01111d2ef14f06241a072f37d32a4887
     internalID: 0
     vertices: []
     indices: 
@@ -1834,7 +998,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":30.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       prota_0: -1080554493355756316
       prota_1: 8297444405556861574
@@ -1860,47 +1026,9 @@ TextureImporter:
       prota_28: 703134858798180155
       prota_29: -8087002410207787626
       prota_3: 7617069811817917502
-      prota_30: -598815276594393908
-      prota_31: -3798376296923837089
-      prota_32: -1814728176040942122
-      prota_33: 4353838630897988209
-      prota_34: 806416681406611897
-      prota_35: -6921631522553797926
-      prota_36: 1595112161470698423
-      prota_37: 2777478417749682357
-      prota_38: 4506316349843659060
-      prota_39: 4764196640832792981
       prota_4: 2066248355406556313
-      prota_40: -6582959466337129927
-      prota_41: 1031748894685984680
-      prota_42: 4043940313069106448
-      prota_43: 7469497551173167509
-      prota_44: 5317427769643171069
-      prota_45: -6406049590614974695
-      prota_46: -1436395173539925258
-      prota_47: 3769330487077547680
-      prota_48: 6230440991483895906
-      prota_49: 6341040848324794678
       prota_5: 3934937308031375522
-      prota_50: -8445381774004003406
-      prota_51: 2792933738408618673
-      prota_52: 1267565627363029431
-      prota_53: 3005161819051018959
-      prota_54: -3093436713432309299
-      prota_55: 3476309432478835810
-      prota_56: -6904431191908414145
-      prota_57: -3080446835484648229
-      prota_58: 182807489776614093
-      prota_59: -8264939576769380813
       prota_6: 764281585294315576
-      prota_60: -5330924449884366280
-      prota_61: 4727584830458404815
-      prota_62: -3387280947625605198
-      prota_63: 6197978627643658713
-      prota_64: 8779681329165627822
-      prota_65: -1781743718553539737
-      prota_66: -5602674014156354815
-      prota_67: -589943722395086997
       prota_7: -2466025503303751544
       prota_8: 9147768134451013873
       prota_9: -1406318392429688340
